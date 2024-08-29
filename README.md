@@ -7,4 +7,4 @@
 
 🌈 Styling Options: Customize colors, shadows, and borders for uniqueness.
 
-output: 
+output: ![image](https://github.com/user-attachments/assets/8458e536-0f3c-4030-8976-618db7b07907)
